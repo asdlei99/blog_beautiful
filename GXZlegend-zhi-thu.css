@@ -1,0 +1,223 @@
+#google_ad_c1, #google_ad_c2 {display:none;}
+.syntaxhighlighter a, .syntaxhighlighter div, .syntaxhighlighter code, .syntaxhighlighter table, .syntaxhighlighter table td, .syntaxhighlighter table tr, .syntaxhighlighter             table tbody, .syntaxhighlighter table thead, .syntaxhighlighter table caption, .syntaxhighlighter textarea {
+font-size:12px!important;
+}
+#post_next_prev{
+padding-top:10px;
+}
+div#blog_post_info{
+display:none;
+}
+.diggit{
+display:none;
+}
+.buryit{
+display:none;
+}
+#footer{
+margin-top:20px;
+}
+#commentbox_opt a{
+display:none;
+}
+#site_nav_under {
+    display: none;
+}
+/*去除广告 自定义去除博客园底部的广告和链接推荐 - 赵磊de博客 - 博客园  https://www.cnblogs.com/zzhaolei/p/11063469.html*/
+.c_ad_block, .ad_text_commentbox {
+    display: none;
+    margin: 0;
+    padding: 0;
+}
+#ad_under_google {
+    height: 0;
+    overflow: hidden;
+}
+#ad_under_google a {
+    display: none;
+}
+#ad_t2{
+display:none;
+}
+#cnblogs_c1,#under_post_news,#cnblogs_c2,#under_post_kb {display:none;!important}
+
+#sideBar{
+font-size:12px;
+}
+#sideBar h3, #MyIng .ing_title{
+margin:16px 0 10px -6px;
+font-size:22px;
+font-weight:normal;
+}
+#blog_stats{
+line-height:60px;
+}
+#navList li{
+font-size:13pt;
+}
+#home {
+opacity: 0.80;
+margin: 0 auto;
+width: 85%;
+min-width: 950px;
+background-color: #fff;
+padding: 30px;
+margin-top: 30px;
+margin-bottom: 50px;
+box-shadow: 0 2px 6px rgba(100, 100, 100, 0.3);
+}
+#blogTitle h1 {
+font-size: 30px;
+font-weight: bold;
+font-family: "Comic Sans MS";
+line-height: 1.5em;
+margin-top: 20px;
+color: #515151;
+}
+#navList a:hover {
+color: #4C9ED9;
+text-decoration: none;
+}
+#navList a {
+display: block;
+width: 5em;
+height: 22px;
+float: left;
+text-align: center;
+padding-top: 18px;
+}
+#navigator {
+font-size: 14px;
+height: 60px;
+clear: both;
+margin-top: 25px;
+line-height:30px;
+}
+.catListTitle {
+margin-top: 21px;
+margin-bottom: 10.5px;
+text-align: left;
+border-left: 10px solid rgba(131, 179, 117, 0.8);
+padding: 8px 0 8px 10px;
+background-color: #f5f5f5;
+}
+#ad_under_post_holder #google_ad_c1,#google_ad_c2{  
+display: none !important;
+}
+/*可以设置背景图片 免费美图下载Beautiful Free Images & Pictures | Unsplash  https://unsplash.com/*/
+body {
+color: #000;
+background: url(https://images.cnblogs.com/cnblogs_com/lingr7/1565884/o_jimmy-chang-lkST28_poLo-unsplash.jpg
+) fixed;
+background-size: cover;
+background-repeat: no-repeat;
+font-family: "Helvetica Neue",Helvetica,Verdana,Arial,sans-serif;
+font-size: 14px;
+min-height: 101%;
+line-height:1.7;
+}
+.postTitle, .entrylistPosttitle, .feedback_area_title{
+font-size:18px;
+}
+#topics .postTitle {
+border: 0px;
+font-size: 200%;
+font-weight: bold;
+float: left;
+line-height: 1.5;
+width: 100%;
+padding-left: 5px;
+}
+
+
+div.commentform p{
+margin-bottom:10px;
+}
+.comment_btn {
+padding: 5px 10px;
+height: 45px;
+width: 120px;
+border: 0 none;
+border-radius: 5px;
+background: #258fb8;
+color: white;
+cursor:pointer;
+font-family: "Lato", Helvetica Neue, Helvetica, Microsoft Yahei, 宋体, Arial, sans-serif;
+text-shadow: 0 0 1px #fff;
+display: inline !important;
+font-size:15px;
+}
+.postDesc, .entrylistItemPostDesc{
+padding-top:20px;
+padding-bottom:10px;
+}
+#comment_nav{
+padding-top:10px;
+}
+.comment_btn:hover{
+padding: 5px 10px;
+height: 45px;
+width: 120px;
+border: 0 none;
+border-radius: 5px;
+background: #ddd;
+color: #444;
+cursor:pointer;
+font-family: "Lato", Helvetica Neue, Helvetica, Microsoft Yahei, 宋体, Arial, sans-serif;
+text-shadow: 0 0 1px #fff;
+display: inline !important;
+}
+#commentform_title {
+background-image:none;
+background-repeat:no-repeat;
+margin-bottom:10px;
+padding:0;
+font-size:24px;
+}
+#commentbox_opt,#commentbox_opt + p {
+text-align:center;
+}
+.commentbox_title {
+width: 100%;
+}
+#tbCommentBody {
+font-family:'Microsoft Yahei', Microsoft Yahei, 宋体, sans-serif;
+margin-top:10px;
+max-width:100%;
+min-width:100%;
+background:white;
+color:#333;
+border:2px solid #fff;
+box-shadow:inset 0 0 8px #aaa;
+// padding:10px;
+height:250px;
+font-size:14px;
+min-height:120px;
+}
+.feedbackItem {
+font-size:14px;
+line-height:24px;
+margin:10px 0;
+padding:20px;
+background:#F2F2F2;
+box-shadow:0 0 5px #aaa;
+}
+.feedbackListSubtitle {
+font-weight:normal;
+}
+.feedback_area_title {
+margin-bottom: 15px;
+font-size: 1.8em;
+}
+.feedbackItem {
+border-bottom: 1px solid #CCC;
+margin-bottom: 10px;
+padding: 5px;
+background: rgb(248, 248, 248);
+}
+.color_shine {background: rgb(226, 242, 255);}
+.feedbackItem:hover {-webkit-animation-name: color_shine;-webkit-animation-duration: 2s;-webkit-animation-iteration-count: infinite;}
+#comment_form .title {
+font-weight: normal;
+margin-bottom: 15px;
+}
